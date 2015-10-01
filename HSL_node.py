@@ -1,3 +1,13 @@
+#
+#										    
+#
+#	created by Jordan Alphonso
+#		on 7.25.2015
+#
+#
+
+
+
 import maya.OpenMaya as om
 import maya.OpenMayaMPx as MPx
 import colorsys
